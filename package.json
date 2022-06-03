@@ -1,0 +1,16 @@
+{
+  "name": "rfnt-q3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "html-table-to-json": "^1.0.0",
+    "jsdom": "^19.0.0"
+  }
+}
